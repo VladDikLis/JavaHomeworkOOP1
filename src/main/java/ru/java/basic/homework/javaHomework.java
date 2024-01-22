@@ -21,7 +21,6 @@ public class javaHomework {
         for (int i = 0; i<=9; i++) {
             user[i].userPrint40();
         }
-
         Box box1 = new Box("Большая", "Красная", "Закрыта", "Пусто");
         box1.boxPrint();
         box1.boxOpen();
