@@ -32,5 +32,5 @@ public class javaHomework {
         box1.boxOut();
         box1.boxNewcolour("Синяя");
         box1.boxPrint();
-    }
+    } //
 }

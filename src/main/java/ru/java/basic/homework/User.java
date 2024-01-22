@@ -29,7 +29,7 @@ public class User {
             System.out.println("e-mail: " + email);
             System.out.println();
         }
-    }
+    } //
 }
 
 

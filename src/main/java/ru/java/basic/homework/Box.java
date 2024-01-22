@@ -80,5 +80,5 @@ public class Box {
     public void boxNewcolour(String colour) {
         this.colour = colour;
         System.out.println("Вы перекрасили коробку");
-    }
+    } //
 }
