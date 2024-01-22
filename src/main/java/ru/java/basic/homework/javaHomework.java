@@ -25,7 +25,7 @@ public class javaHomework {
         Box box1 = new Box("Большая", "Красная", "Закрыта", "Пусто");
         box1.boxPrint();
         box1.boxOpen();
-        box1.boxIn("Мяч");
+        box1.boxIn("Шар");
         box1.boxIn("Кукла");
         box1.boxOut();
         box1.boxOut();
